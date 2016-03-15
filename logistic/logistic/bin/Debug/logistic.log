@@ -1,0 +1,124 @@
+09.10.2015 20:43:38 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateDeclarationDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 121
+09.10.2015 20:43:39 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateInvoiceDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 738
+09.10.2015 20:43:39 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreatePackingListDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 896
+10.10.2015 13:13:35 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateDeclarationDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 120
+10.10.2015 13:13:37 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateInvoiceDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 744
+10.10.2015 13:13:37 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreatePackingListDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 902
+10.10.2015 14:38:30 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.InvalidCastException: Невозможно выполнить приведение данного объекта из DBNull к другому типу.
+   в System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   в System.Convert.ToInt32(Object value)
+   в logistic.Export.CreateDeclarationDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 100
+10.10.2015 14:38:30 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.IndexOutOfRangeException: В позиции 0 строка отсутствует.
+   в System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   в System.Data.DataRowCollection.get_Item(Int32 index)
+   в logistic.Export.CreateProdRefDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 398
+10.10.2015 14:38:30 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.IndexOutOfRangeException: В позиции 0 строка отсутствует.
+   в System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   в System.Data.DataRowCollection.get_Item(Int32 index)
+   в logistic.Export.CreateInvoiceDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 624
+10.10.2015 14:38:31 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreatePackingListDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 902
+12.10.2015 10:48:39 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateDeclarationDocument(Int32 insertedDeclarationID, String destinationFolder) в C:\Projects\logistic\logistic\Export.cs:строка 120
+12.10.2015 10:48:42 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateInvoiceDocument(Int32 insertedDeclarationID, String destinationFolder) в C:\Projects\logistic\logistic\Export.cs:строка 744
+12.10.2015 10:48:42 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreatePackingListDocument(Int32 insertedDeclarationID, String destinationFolder) в C:\Projects\logistic\logistic\Export.cs:строка 902
+13.10.2015 15:37:23 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateDeclarationDocument(Int32 insertedDeclarationID, String destinationFolder) в C:\Projects\logistic\logistic\Export.cs:строка 120
+13.10.2015 15:37:25 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateInvoiceDocument(Int32 insertedDeclarationID, String destinationFolder) в C:\Projects\logistic\logistic\Export.cs:строка 744
+13.10.2015 15:37:25 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreatePackingListDocument(Int32 insertedDeclarationID, String destinationFolder) в C:\Projects\logistic\logistic\Export.cs:строка 902
+15.10.2015 16:10:32 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Заданное приведение является недопустимым.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateDeclarationDocument(Int32 insertedDeclarationID, String destinationFolder)
+15.10.2015 16:10:34 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Заданное приведение является недопустимым.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateProdRefDocument(Int32 insertedDeclarationID, String destinationFolder)
+15.10.2015 16:10:34 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Заданное приведение является недопустимым.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateInvoiceDocument(Int32 insertedDeclarationID, String destinationFolder)
+15.10.2015 16:10:34 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Заданное приведение является недопустимым.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreatePackingListDocument(Int32 insertedDeclarationID, String destinationFolder)
+15.10.2015 16:11:32 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Заданное приведение является недопустимым.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateDeclarationDocument(Int32 insertedDeclarationID, String destinationFolder)
+15.10.2015 16:11:32 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Заданное приведение является недопустимым.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateProdRefDocument(Int32 insertedDeclarationID, String destinationFolder)
+15.10.2015 16:11:33 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Заданное приведение является недопустимым.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateInvoiceDocument(Int32 insertedDeclarationID, String destinationFolder)
+15.10.2015 16:11:33 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Заданное приведение является недопустимым.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreatePackingListDocument(Int32 insertedDeclarationID, String destinationFolder)
+15.10.2015 16:21:06 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.InvalidCastException: Заданное приведение является недопустимым.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateProdRefDocument(Int32 insertedDeclarationID, String destinationFolder) в C:\Projects\logistic\logistic\Export.cs:строка 400
+15.10.2015 16:37:42 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.IO.DirectoryNotFoundException: Не удалось найти часть пути "C:\Users\anedopaka\Desktop\Новая папка (26)\Заява_ТПП_2\1_15-10-2015-16-37-42.docx".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.IO.File.Create(String path)
+   в logistic.Export.CreateDeclarationDocument(Int32 insertedDeclarationID, String destinationFolder)
+15.10.2015 16:37:43 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.IO.DirectoryNotFoundException: Не удалось найти часть пути "C:\Users\anedopaka\Desktop\Новая папка (26)\ПС_ТПП_2\1_15-10-2015-16-37-43.docx".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.IO.File.Create(String path)
+   в logistic.Export.CreateProdRefDocument(Int32 insertedDeclarationID, String destinationFolder)
+15.10.2015 16:37:43 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.IO.DirectoryNotFoundException: Не удалось найти часть пути "C:\Users\anedopaka\Desktop\Новая папка (26)\СФ_2\1_№_13_1_15-10-2015_15-10-2015-16-37-43.docx".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.IO.File.Create(String path)
+   в logistic.Export.CreateInvoiceDocument(Int32 insertedDeclarationID, String destinationFolder)
+15.10.2015 16:37:44 IP: 192.168.1.105 Machine Name: POMORTSEV Exception: System.IO.DirectoryNotFoundException: Не удалось найти часть пути "C:\Users\anedopaka\Desktop\Новая папка (26)\УЛ_2\1_15-10-2015-16-37-44.docx".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.IO.File.Create(String path)
+   в logistic.Export.CreatePackingListDocument(Int32 insertedDeclarationID, String destinationFolder)

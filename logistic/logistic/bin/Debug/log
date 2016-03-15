@@ -1,0 +1,12 @@
+09.10.2015 20:41:16 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateDeclarationDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 121
+09.10.2015 20:41:17 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreateInvoiceDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 738
+09.10.2015 20:41:17 IP: 192.168.0.105 Machine Name: ALEX-PC Exception: System.InvalidCastException: Не удается привести DBNull.Value к типу "System.Int32". Используйте тип, допускающий значения NULL.
+   в System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   в System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   в logistic.Export.CreatePackingListDocument(Int32 insertedDeclarationID, String destinationFolder) в c:\Projects\logistic\logistic\Export.cs:строка 896

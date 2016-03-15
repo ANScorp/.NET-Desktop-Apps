@@ -1,0 +1,101 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\logistic\logistic\bin\Debug\logistic.exe.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\logistic\logistic\bin\Debug\logistic.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\logistic\logistic\bin\Debug\logistic.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\logistic\logistic\obj\Debug\logistic.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\logistic\logistic\obj\Debug\logistic.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\logistic\logistic\obj\Debug\logistic.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\logistic\logistic\obj\Debug\logistic.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\logistic\logistic\obj\Debug\logistic.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\logistic\logistic\obj\Debug\logistic.pdb
+D:\DATA\logistic\logistic\bin\Debug\logistic.exe.config
+D:\DATA\logistic\logistic\obj\Debug\logistic.exe
+D:\DATA\logistic\logistic\obj\Debug\logistic.pdb
+D:\DATA\logistic\logistic\bin\Debug\logistic.exe
+D:\DATA\logistic\logistic\bin\Debug\logistic.pdb
+D:\DATA\logistic\logistic\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DATA\logistic\logistic\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DATA\logistic\logistic\obj\Debug\logistic.csprojResolveAssemblyReference.cache
+D:\DATA\logistic\logistic\obj\Debug\logistic.Form1.resources
+D:\DATA\logistic\logistic\obj\Debug\logistic.Properties.Resources.resources
+D:\DATA\logistic\logistic\obj\Debug\logistic.csproj.GenerateResource.Cache
+D:\DATA\logistic\logistic\bin\Debug\logistic.exe.manifest
+D:\DATA\logistic\logistic\bin\Debug\logistic.application
+D:\DATA\logistic\logistic\obj\Debug\logistic.exe.manifest
+D:\DATA\logistic\logistic\obj\Debug\logistic.application
+D:\DATA\logistic\logistic\obj\Debug\logistic.MainWindow.resources
+D:\DATA\logistic\logistic\obj\Debug\logistic.NewDeclaration.resources
+D:\DATA\logistic\logistic\obj\Debug\logistic.ShowDeclarations.resources
+C:\Users\Alex\Desktop\logistic\logistic\bin\Debug\logistic.exe.config
+C:\Users\Alex\Desktop\logistic\logistic\obj\Debug\logistic.exe
+C:\Users\Alex\Desktop\logistic\logistic\obj\Debug\logistic.pdb
+C:\Users\Alex\Desktop\logistic\logistic\bin\Debug\logistic.exe.manifest
+C:\Users\Alex\Desktop\logistic\logistic\bin\Debug\logistic.application
+C:\Users\Alex\Desktop\logistic\logistic\bin\Debug\logistic.exe
+C:\Users\Alex\Desktop\logistic\logistic\bin\Debug\logistic.pdb
+C:\Users\Alex\Desktop\logistic\logistic\obj\Debug\logistic.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\logistic\logistic\obj\Debug\logistic.Form1.resources
+C:\Users\Alex\Desktop\logistic\logistic\obj\Debug\logistic.MainWindow.resources
+C:\Users\Alex\Desktop\logistic\logistic\obj\Debug\logistic.NewDeclaration.resources
+C:\Users\Alex\Desktop\logistic\logistic\obj\Debug\logistic.Properties.Resources.resources
+C:\Users\Alex\Desktop\logistic\logistic\obj\Debug\logistic.ShowDeclarations.resources
+C:\Users\Alex\Desktop\logistic\logistic\obj\Debug\logistic.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\logistic\logistic\obj\Debug\logistic.exe.manifest
+C:\Users\Alex\Desktop\logistic\logistic\obj\Debug\logistic.application
+C:\Projects\logistic\logistic\bin\Debug\logistic.exe.config
+C:\Projects\logistic\logistic\obj\Debug\logistic.exe
+C:\Projects\logistic\logistic\obj\Debug\logistic.pdb
+C:\Projects\logistic\logistic\bin\Debug\logistic.exe.manifest
+C:\Projects\logistic\logistic\bin\Debug\logistic.application
+C:\Projects\logistic\logistic\bin\Debug\logistic.exe
+C:\Projects\logistic\logistic\bin\Debug\logistic.pdb
+C:\Projects\logistic\logistic\obj\Debug\logistic.csprojResolveAssemblyReference.cache
+C:\Projects\logistic\logistic\obj\Debug\logistic.Form1.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.MainWindow.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.NewDeclaration.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.Properties.Resources.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.ShowDeclarations.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.csproj.GenerateResource.Cache
+C:\Projects\logistic\logistic\obj\Debug\logistic.exe.manifest
+C:\Projects\logistic\logistic\obj\Debug\logistic.application
+C:\Projects\logistic\logistic\obj\Debug\logistic.AddSpecification.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.ShowDeclaration.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.ShowSupplement.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.AddSupplement.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.ShowInvoice.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.AddInvoice.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.ChangeDetailsPackingList.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.AddPackingListSpecification.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.AddPackingList.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.EditSpecificationItem.resources
+C:\Projects\logistic\logistic\obj\Debug\logistic.EditPackingListSpecificationItem.resources
+C:\Projects\logistic\logistic\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Projects\logistic\logistic\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Projects\logistic_4_5\logistic\bin\Debug\logistic.exe.config
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.exe
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.pdb
+C:\Projects\logistic_4_5\logistic\bin\Debug\logistic.exe.manifest
+C:\Projects\logistic_4_5\logistic\bin\Debug\logistic.application
+C:\Projects\logistic_4_5\logistic\bin\Debug\logistic.exe
+C:\Projects\logistic_4_5\logistic\bin\Debug\logistic.pdb
+C:\Projects\logistic_4_5\logistic\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Projects\logistic_4_5\logistic\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.csprojResolveAssemblyReference.cache
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.AddInvoice.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.AddPackingList.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.AddPackingListSpecification.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.AddSpecification.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.AddSupplement.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.ChangeDetailsPackingList.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.EditPackingListSpecificationItem.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.EditSpecificationItem.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.Form1.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.MainWindow.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.NewDeclaration.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.Properties.Resources.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.ShowDeclaration.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.ShowDeclarations.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.ShowInvoice.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.ShowSupplement.resources
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.csproj.GenerateResource.Cache
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.exe.manifest
+C:\Projects\logistic_4_5\logistic\obj\Debug\logistic.application
