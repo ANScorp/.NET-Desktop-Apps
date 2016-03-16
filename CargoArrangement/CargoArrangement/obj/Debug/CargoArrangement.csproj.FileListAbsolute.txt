@@ -1,0 +1,83 @@
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\CargoArrangement.exe.config
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\CargoArrangement.exe
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\CargoArrangement.pdb
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.csprojResolveAssemblyReference.cache
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\MainWindow.g.cs
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\App.g.cs
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement_MarkupCompile.cache
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement_MarkupCompile.lref
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\MainWindow.baml
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.g.resources
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.Properties.Resources.resources
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.csproj.GenerateResource.Cache
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.exe
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.pdb
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\Microsoft.Expression.Drawing.dll
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+c:\users\anedopaka\documents\visual studio 2015\Projects\CargoArrangement\CargoArrangement\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\anedopaka\Documents\Visual Studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\PalletItemControl.g.cs
+C:\Users\anedopaka\Documents\Visual Studio 2015\Projects\CargoArrangement\CargoArrangement\obj\Debug\PalletItemControl.baml
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\CargoArrangement.exe.config
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.exe
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.pdb
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\MainWindow.g.cs
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\PalletItemControl.g.cs
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\App.g.cs
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement_MarkupCompile.cache
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement_MarkupCompile.lref
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\CargoArrangement.exe
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\CargoArrangement.pdb
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\MainWindow.baml
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\PalletItemControl.baml
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.g.resources
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.Properties.Resources.resources
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.csproj.GenerateResource.Cache
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\MigraDoc.DocumentObjectModel-WPF.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\MigraDoc.Rendering-WPF.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\MigraDoc.RtfRendering-WPF.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\PdfSharp-WPF.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\PdfSharp.Charting-WPF.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\PdfSharp.Xps.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\de\MigraDoc.DocumentObjectModel-WPF.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\de\MigraDoc.Rendering-WPF.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\de\MigraDoc.RtfRendering-WPF.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\de\PdfSharp-WPF.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\bin\Debug\de\PdfSharp.Charting-WPF.resources.dll
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement_Content.g.cs
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\ReportWindow.baml
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\ReportWindow.g.cs
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\CargoArrangement\CargoArrangement\obj\Debug\CargoArrangement.csprojResolveAssemblyReference.cache
