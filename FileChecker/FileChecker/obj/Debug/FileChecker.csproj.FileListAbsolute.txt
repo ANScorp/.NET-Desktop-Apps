@@ -1,0 +1,14 @@
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\bin\Debug\FileChecker.exe.config
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\bin\Debug\FileChecker.exe
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\bin\Debug\FileChecker.pdb
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\obj\Debug\FileChecker.csprojResolveAssemblyReference.cache
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\obj\Debug\MainWindow.g.cs
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\obj\Debug\App.g.cs
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\obj\Debug\FileChecker_MarkupCompile.cache
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\obj\Debug\FileChecker_MarkupCompile.lref
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\obj\Debug\MainWindow.baml
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\obj\Debug\FileChecker.g.resources
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\obj\Debug\FileChecker.Properties.Resources.resources
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\obj\Debug\FileChecker.csproj.GenerateResource.Cache
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\obj\Debug\FileChecker.exe
+c:\users\anedopaka\documents\visual studio 2015\Projects\FileChecker\FileChecker\obj\Debug\FileChecker.pdb
