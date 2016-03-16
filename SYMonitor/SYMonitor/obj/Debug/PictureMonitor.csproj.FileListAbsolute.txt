@@ -1,0 +1,26 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\bin\Debug\PictureMonitor.exe.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\obj\Debug\PictureMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\obj\Debug\MainWindow.baml
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\obj\Debug\App.g.cs
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\obj\Debug\PictureMonitor_MarkupCompile.cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\obj\Debug\PictureMonitor.g.resources
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\obj\Debug\PictureMonitor.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\obj\Debug\PictureMonitor.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\bin\Debug\PictureMonitor.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\bin\Debug\PictureMonitor.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\obj\Debug\PictureMonitor.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\PictureMonitor\PictureMonitor\obj\Debug\PictureMonitor.pdb
+C:\Projects\FilesMonitor\PictureMonitor\bin\Debug\PictureMonitor.exe.config
+C:\Projects\FilesMonitor\PictureMonitor\obj\Debug\PictureMonitor.exe
+C:\Projects\FilesMonitor\PictureMonitor\obj\Debug\PictureMonitor.pdb
+C:\Projects\FilesMonitor\PictureMonitor\bin\Debug\PictureMonitor.exe
+C:\Projects\FilesMonitor\PictureMonitor\bin\Debug\PictureMonitor.pdb
+C:\Projects\FilesMonitor\PictureMonitor\obj\Debug\PictureMonitor.csprojResolveAssemblyReference.cache
+C:\Projects\FilesMonitor\PictureMonitor\obj\Debug\MainWindow.baml
+C:\Projects\FilesMonitor\PictureMonitor\obj\Debug\MainWindow.g.cs
+C:\Projects\FilesMonitor\PictureMonitor\obj\Debug\App.g.cs
+C:\Projects\FilesMonitor\PictureMonitor\obj\Debug\PictureMonitor_MarkupCompile.cache
+C:\Projects\FilesMonitor\PictureMonitor\obj\Debug\PictureMonitor.g.resources
+C:\Projects\FilesMonitor\PictureMonitor\obj\Debug\PictureMonitor.Properties.Resources.resources
+C:\Projects\FilesMonitor\PictureMonitor\obj\Debug\PictureMonitor.csproj.GenerateResource.Cache
